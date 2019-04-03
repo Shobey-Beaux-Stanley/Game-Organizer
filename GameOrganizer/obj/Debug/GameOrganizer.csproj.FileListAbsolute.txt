@@ -1,0 +1,62 @@
+C:\Users\Shobey Stanley\Documents\Programming Projects\GameOrganizer\GameOrganizer\bin\Debug\GameOrganizer.exe.config
+C:\Users\Shobey Stanley\Documents\Programming Projects\GameOrganizer\GameOrganizer\bin\Debug\GameOrganizer.exe
+C:\Users\Shobey Stanley\Documents\Programming Projects\GameOrganizer\GameOrganizer\bin\Debug\GameOrganizer.pdb
+C:\Users\Shobey Stanley\Documents\Programming Projects\GameOrganizer\GameOrganizer\obj\Debug\GameOrganizer.Form1.resources
+C:\Users\Shobey Stanley\Documents\Programming Projects\GameOrganizer\GameOrganizer\obj\Debug\GameOrganizer.Properties.Resources.resources
+C:\Users\Shobey Stanley\Documents\Programming Projects\GameOrganizer\GameOrganizer\obj\Debug\GameOrganizer.csproj.GenerateResource.Cache
+C:\Users\Shobey Stanley\Documents\Programming Projects\GameOrganizer\GameOrganizer\obj\Debug\GameOrganizer.exe
+C:\Users\Shobey Stanley\Documents\Programming Projects\GameOrganizer\GameOrganizer\obj\Debug\GameOrganizer.pdb
+C:\Users\Shobey Stanley\Documents\Programming Projects\GameOrganizer\GameOrganizer\obj\Debug\GameOrganizer.Resources.resources
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\bin\Debug\Artwork\Null.jpg
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\bin\Debug\SavedList\listOfGames.xml
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\bin\Debug\Artwork\The_Legend_of_Zelda_Wind_Waker_Art.jpg
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\bin\Debug\Artwork\Metroid_Prime_Art.jpg
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\bin\Debug\GameOrganizer.exe.config
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\bin\Debug\GameOrganizer.exe.manifest
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\bin\Debug\GameOrganizer.application
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\bin\Debug\GameOrganizer.exe
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\bin\Debug\GameOrganizer.pdb
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\obj\Debug\GameOrganizer.AddGameForm.resources
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\obj\Debug\GameOrganizer.MainForm.resources
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\obj\Debug\GameOrganizer.Properties.Resources.resources
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\obj\Debug\GameOrganizer.csproj.GenerateResource.Cache
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\obj\Debug\GameOrganizer.exe.manifest
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\obj\Debug\GameOrganizer.application
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\obj\Debug\GameOrganizer.exe
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer\obj\Debug\GameOrganizer.pdb
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\bin\Debug\GameOrganizer.exe.config
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.exe
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.pdb
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\bin\Debug\Artwork\Null.jpg
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\bin\Debug\SavedList\listOfGames.xml
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\bin\Debug\Artwork\The_Legend_of_Zelda_Wind_Waker_Art.jpg
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\bin\Debug\Artwork\Metroid_Prime_Art.jpg
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\bin\Debug\GameOrganizer.exe.manifest
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\bin\Debug\GameOrganizer.application
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\bin\Debug\GameOrganizer.exe
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\bin\Debug\GameOrganizer.pdb
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.csprojResolveAssemblyReference.cache
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.AddGameForm.resources
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.MainForm.resources
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.Properties.Resources.resources
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.csproj.GenerateResource.Cache
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.exe.manifest
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\GameOrganizer\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.application
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\bin\Debug\GameOrganizer.exe.config
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.exe
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.pdb
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\bin\Debug\Artwork\Null.jpg
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\bin\Debug\SavedList\listOfGames.xml
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\bin\Debug\Artwork\The_Legend_of_Zelda_Wind_Waker_Art.jpg
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\bin\Debug\Artwork\Metroid_Prime_Art.jpg
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\bin\Debug\GameOrganizer.exe.manifest
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\bin\Debug\GameOrganizer.application
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\bin\Debug\GameOrganizer.exe
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\bin\Debug\GameOrganizer.pdb
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.csprojResolveAssemblyReference.cache
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.AddGameForm.resources
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.MainForm.resources
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.Properties.Resources.resources
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.csproj.GenerateResource.Cache
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.exe.manifest
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Previous Versions\GameOrganizer_V1\GameOrganizer\obj\Debug\GameOrganizer.application

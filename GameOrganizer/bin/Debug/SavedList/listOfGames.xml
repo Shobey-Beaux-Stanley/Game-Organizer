@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<games>
+  <game>
+    <publisher>Nintendo</publisher>
+    <platform>Gamecube</platform>
+    <title>Metroid Prime</title>
+  </game>
+  <game>
+    <publisher>Bungie</publisher>
+    <platform>Xbox</platform>
+    <title>Halo</title>
+  </game>
+  <game>
+    <publisher>Gamecube</publisher>
+    <platform>Nintendo</platform>
+    <title>Metroid Prime 2: Echoes</title>
+  </game>
+  <game>
+    <publisher>-</publisher>
+    <platform>-</platform>
+    <title>The Legend of Zelda: A Link to the Past</title>
+  </game>
+</games>
